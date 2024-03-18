@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+img{
+	width:200px;
+	height:150px;
+	border-radius:50%;
+	display:block;
+	margin:auto;
+}
+h1{
+	text-align:center;
+}
